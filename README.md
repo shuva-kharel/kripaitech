@@ -1,47 +1,38 @@
-<div align="center">
-🚨 Tutorial
-<a name="tech-stack">⚙️ Tech Stack</a>
+# 🚨 Tutorial: Setting up the Project
 
+## ⚙️ Tech Stack
 - Vite
 - React.js
 - Tailwind CSS
 
-<a name="quick-start">🤸 Quick Start</a>
+## 🤸 Quick Start
+Follow these steps to set up the project locally.
 
-Follow these steps to set up the project locally on your machine.
-
-**Prerequisites**
-
+### Prerequisites
 Make sure you have the following installed on your machine:
-
 - [Git](https://git-scm.com/)
 - [Node.js](https://nodejs.org/en)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
 
-**Cloning the Repository**
-
+### Cloning the Repository
 ```bash
 git clone https://github.com/shuva-kharel/kripaitech.git
 cd kripaitech
 ```
 
-**Installation**
-
+Installation
 Install the project dependencies using npm:
-
 ```bash
 npm install
 ```
 
-Updating the node modules:
+Update the node modules:
 ```bash
 npm update
 ```
 
-**Running the Project**
-
+Running the Project
 ```bash
 npm run dev
 ```
-
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
