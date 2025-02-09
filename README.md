@@ -1,12 +1,12 @@
 <div align="center">
-## 🚨 Tutorial
-## <a name="tech-stack">⚙️ Tech Stack</a>
+🚨 Tutorial
+<a name="tech-stack">⚙️ Tech Stack</a>
 
 - Vite
 - React.js
 - Tailwind CSS
 
-## <a name="quick-start">🤸 Quick Start</a>
+<a name="quick-start">🤸 Quick Start</a>
 
 Follow these steps to set up the project locally on your machine.
 
